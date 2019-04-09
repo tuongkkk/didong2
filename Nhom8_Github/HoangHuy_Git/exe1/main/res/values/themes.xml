@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BlackTheme" >
+        <item name="android:background">#2D3238</item>
+        <item name="android:textColor">#fff</item>
+
+    </style>
+
+
+    <style name="BlueTheme" >
+        <item name="android:background">#25AE90</item>
+        <item name="android:textColor">#EA4C87</item>
+        <item name="login">@style/login_blue</item>
+    </style>
+
+</resources>
