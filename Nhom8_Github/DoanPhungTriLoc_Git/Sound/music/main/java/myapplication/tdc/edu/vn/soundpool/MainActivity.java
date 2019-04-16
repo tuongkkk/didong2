@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textCurrentPosition;
     private TextView textMusic;
     private TextView textSingle;
+    private TextView textLyric;
     private Button buttonPause;
     private Button buttonStart;
     private SeekBar seekBar;
@@ -130,6 +131,7 @@ public class MainActivity extends AppCompatActivity {
         this.textMaxTime = (TextView) this.findViewById(R.id.tw_maxtime);
         this.textMusic = (TextView) this.findViewById(R.id.tw_music);
         this.textSingle = (TextView) this.findViewById(R.id.tw_single);
+        this.textLyric = (TextView) this.findViewById(R.id.tw_lyric);
         this.buttonStart = (Button) this.findViewById(R.id.btn_play);
         this.buttonPause = (Button) this.findViewById(R.id.btn_pause);
         this.seekBar = (SeekBar) this.findViewById(R.id.seekbar);
@@ -147,6 +149,7 @@ public class MainActivity extends AppCompatActivity {
         songId = this.getRawResIdByName(music_Id[number]);
         this.textMusic.setText(music_Name[number]);
         this.textSingle.setText(music_Single[number]);
+        this.textLyric.setText(music_Lyrics[number]);
     }
 
     // Find ID in raw folder follow name

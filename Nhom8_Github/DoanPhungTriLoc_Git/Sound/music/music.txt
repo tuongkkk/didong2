@@ -1,0 +1,5 @@
+Add cac dong code vao tab dependencies trong buid,gradle:
+    repositories {
+        mavenCentral()
+    }
+    implementation 'com.sothree.slidinguppanel:library:3.4.0'
