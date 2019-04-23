@@ -1,8 +1,6 @@
 package com.hktstudio.music.defines;
 
-/**
- * Created by HOANG on 3/22/2018.
- */
+
 
 public class Define {
     public static final String actPrevious = "com.hktstudio.music.previous";
