@@ -17,9 +17,7 @@ import com.hktstudio.music.models.Song;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 3/27/2018.
- */
+
 
 public class AdapterViewPagerPlaySong extends PagerAdapter {
     private Context context;
