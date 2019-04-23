@@ -10,9 +10,7 @@ import com.hktstudio.music.models.Album;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 4/10/2018.
- */
+
 
 public class AlbumLoader {
     public static List getListAlbums(Context context){
