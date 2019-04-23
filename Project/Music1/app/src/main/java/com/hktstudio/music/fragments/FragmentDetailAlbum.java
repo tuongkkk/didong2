@@ -20,9 +20,7 @@ import com.hktstudio.music.service.MusicService;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 4/4/2018.
- */
+
 
 public class FragmentDetailAlbum extends Fragment{
     public static ImageView image_Album;
