@@ -1,8 +1,6 @@
 package com.hktstudio.music.models;
 
-/**
- * Created by HOANG on 3/20/2018.
- */
+
 
 public class Song {
     private String id, name, title, album, album_id,artist,artist_id, path, album_art;
