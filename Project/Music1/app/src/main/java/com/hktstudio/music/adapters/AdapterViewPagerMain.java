@@ -10,9 +10,7 @@ import com.hktstudio.music.fragments.FragmentArtist;
 import com.hktstudio.music.fragments.FragmentPlaylist;
 import com.hktstudio.music.fragments.FragmentSong;
 
-/**
- * Created by HOANG on 3/19/2018.
- */
+
 
 public class AdapterViewPagerMain extends FragmentStatePagerAdapter {
     public AdapterViewPagerMain(FragmentManager fm) {
