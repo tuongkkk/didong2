@@ -34,9 +34,7 @@ import java.util.List;
 import static com.hktstudio.music.activities.MainActivity.bt_Play;
 import static com.hktstudio.music.activities.MainActivity.updateUI;
 
-/**
- * Created by HOANG on 3/28/2018.
- */
+
 
 public class MusicService extends Service{
     public static MusicService instance;
