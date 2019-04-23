@@ -10,9 +10,7 @@ import com.hktstudio.music.models.Song;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 4/10/2018.
- */
+
 
 public class SongLoader {
     public static List getListSongs(Context context) {
