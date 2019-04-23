@@ -16,9 +16,7 @@ import com.hktstudio.music.models.Album;
 
 import java.util.List;
 
-/**
- * Created by HOANG on 3/19/2018.
- */
+
 
 public class FragmentAlbum extends Fragment {
     RecyclerView rcv_Album;
