@@ -24,9 +24,7 @@ import static com.hktstudio.music.service.MusicService.notification;
 import static com.hktstudio.music.service.MusicService.pos;
 import static com.hktstudio.music.service.MusicService.updateNotification;
 
-/**
- * Created by HOANG on 3/22/2018.
- */
+
 
 public class Control {
     public static void previous(Context context) {
