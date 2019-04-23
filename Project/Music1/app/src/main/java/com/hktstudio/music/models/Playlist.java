@@ -1,8 +1,6 @@
 package com.hktstudio.music.models;
 
-/**
- * Created by HOANG on 4/10/2018.
- */
+
 
 public class Playlist {
     private long id;
