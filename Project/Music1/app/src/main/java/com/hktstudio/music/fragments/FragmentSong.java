@@ -22,9 +22,7 @@ import com.hktstudio.music.service.MusicService;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 3/19/2018.
- */
+
 
 public class FragmentSong extends Fragment{
     public static FragmentSong instance;
