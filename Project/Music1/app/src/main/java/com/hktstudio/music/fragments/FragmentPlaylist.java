@@ -22,9 +22,7 @@ import java.util.List;
 
 import static com.hktstudio.music.activities.MainActivity.fragmentManager;
 
-/**
- * Created by HOANG on 4/10/2018.
- */
+
 
 public class FragmentPlaylist extends Fragment implements View.OnClickListener{
     RecyclerView rcv_Playlist;
