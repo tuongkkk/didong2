@@ -9,9 +9,7 @@ import com.hktstudio.music.controls.Control;
 import com.hktstudio.music.defines.Define;
 import com.hktstudio.music.service.MusicService;
 
-/**
- * Created by HOANG on 3/22/2018.
- */
+
 
 public class SwitchButtonListener extends BroadcastReceiver {
     @Override
