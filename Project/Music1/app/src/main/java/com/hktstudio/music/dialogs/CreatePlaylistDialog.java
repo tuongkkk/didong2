@@ -22,9 +22,7 @@ import java.util.List;
 
 import static com.hktstudio.music.widgets.MusicPlayer.updatePlaylist;
 
-/**
- * Created by HOANG on 5/12/2018.
- */
+
 
 public class CreatePlaylistDialog extends DialogFragment {
     public static CreatePlaylistDialog instance;
