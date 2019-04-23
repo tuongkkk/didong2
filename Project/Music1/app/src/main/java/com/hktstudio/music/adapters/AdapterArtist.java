@@ -18,9 +18,7 @@ import com.hktstudio.music.models.Artist;
 
 import java.util.List;
 
-/**
- * Created by HOANG on 3/30/2018.
- */
+
 
 public class AdapterArtist extends RecyclerView.Adapter<AdapterArtist.ViewHolder>{
     List<Artist> list;
