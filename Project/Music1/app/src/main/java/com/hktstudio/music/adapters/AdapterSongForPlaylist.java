@@ -20,9 +20,7 @@ import java.util.List;
 
 import static com.hktstudio.music.service.MusicService.setPos;
 
-/**
- * Created by HOANG on 4/14/2018.
- */
+
 
 public class AdapterSongForPlaylist extends RecyclerView.Adapter<AdapterSongForPlaylist.ViewHolder>{
     public static List<Song> list;
