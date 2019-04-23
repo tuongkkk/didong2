@@ -32,9 +32,7 @@ import static com.hktstudio.music.service.MusicService.list;
 import static com.hktstudio.music.service.MusicService.mediaPlayer;
 import static com.hktstudio.music.service.MusicService.setMediaPlayer;
 
-/**
- * Created by HOANG on 3/25/2018.
- */
+
 
 public class PlaySongActivity extends AppCompatActivity implements View.OnClickListener, SeekBar.OnSeekBarChangeListener{
     public static PlaySongActivity instance;
