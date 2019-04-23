@@ -21,9 +21,7 @@ import java.util.List;
 
 import static com.hktstudio.music.widgets.MusicPlayer.updatePlaylist;
 
-/**
- * Created by HOANG on 4/10/2018.
- */
+
 
 public class AdapterPlaylist extends RecyclerView.Adapter<AdapterPlaylist.ViewHolder>{
     List<Playlist> list;
