@@ -23,9 +23,7 @@ import com.hktstudio.music.models.Song;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by HOANG on 4/13/2018.
- */
+
 
 public class FragmentDetailPlaylist extends Fragment {
     public static FragmentDetailPlaylist instance;
