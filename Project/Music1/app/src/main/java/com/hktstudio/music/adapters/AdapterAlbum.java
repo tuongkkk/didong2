@@ -18,9 +18,7 @@ import com.hktstudio.music.models.Album;
 
 import java.util.List;
 
-/**
- * Created by HOANG on 3/30/2018.
- */
+
 
 public class AdapterAlbum extends RecyclerView.Adapter<AdapterAlbum.ViewHolder>{
     List<Album> list;
